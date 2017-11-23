@@ -1,0 +1,10 @@
+/.idea
+/admin/target
+/chat/target
+/main/target
+/usersettings/target
+/admin/admin.iml
+/chat/chat.iml
+/main/main.iml
+/usersettings/usersettings.iml
+JavaBegin.iml
